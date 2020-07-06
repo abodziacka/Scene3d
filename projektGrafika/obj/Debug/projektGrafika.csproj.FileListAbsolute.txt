@@ -1,0 +1,9 @@
+C:\Users\aleks\Desktop\projektGrafika\projektGrafika\obj\Debug\projektGrafika.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\projektGrafika\projektGrafika\obj\Debug\projektGrafika.Properties.Resources.resources
+C:\Users\aleks\Desktop\projektGrafika\projektGrafika\obj\Debug\projektGrafika.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\projektGrafika\projektGrafika\bin\Debug\projektGrafika.exe.config
+C:\Users\aleks\Desktop\projektGrafika\projektGrafika\bin\Debug\projektGrafika.exe
+C:\Users\aleks\Desktop\projektGrafika\projektGrafika\bin\Debug\projektGrafika.pdb
+C:\Users\aleks\Desktop\projektGrafika\projektGrafika\obj\Debug\projektGrafika.exe
+C:\Users\aleks\Desktop\projektGrafika\projektGrafika\obj\Debug\projektGrafika.pdb
+C:\Users\aleks\Desktop\projektGrafika\projektGrafika\obj\Debug\projektGrafika.Form1.resources
